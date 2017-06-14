@@ -41,7 +41,7 @@ namespace Galpão_de_carros
             for (int i = 0; i < n; i++)
            
             {
-                Console.WriteLine(luan[i].Classificar());
+                Console.WriteLine(luan[i].classificar());
             }
          }          
     }         

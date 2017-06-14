@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{FEBD3221-69AD-404E-A964-0BE6713A6AD1}</ProjectGuid>
+    <ProjectGuid>{93629658-9CC2-4BB0-9B4A-5B392FE5DC8F}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>CarroRevisãoFinalMsm</RootNamespace>
-    <AssemblyName>CarroRevisãoFinalMsm</AssemblyName>
+    <RootNamespace>MesPorExtenso</RootNamespace>
+    <AssemblyName>MesPorExtenso</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
