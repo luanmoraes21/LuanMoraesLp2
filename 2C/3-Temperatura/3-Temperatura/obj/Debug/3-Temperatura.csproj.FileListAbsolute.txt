@@ -1,0 +1,2 @@
+D:\ThiagoMairinkLp2\2C\3-Temperatura\3-Temperatura\bin\Debug\3-Temperatura.exe.config
+D:\ThiagoMairinkLp2\2C\3-Temperatura\3-Temperatura\obj\Debug\3-Temperatura.csprojResolveAssemblyReference.cache
