@@ -1,0 +1,12 @@
+D:\ThiagoMairinkLp2\exercicos\ObjetosNoPlano\ObjetosNoPlano\bin\Debug\ObjetosNoPlano.exe.config
+D:\ThiagoMairinkLp2\exercicos\ObjetosNoPlano\ObjetosNoPlano\bin\Debug\ObjetosNoPlano.exe
+D:\ThiagoMairinkLp2\exercicos\ObjetosNoPlano\ObjetosNoPlano\bin\Debug\ObjetosNoPlano.pdb
+D:\ThiagoMairinkLp2\exercicos\ObjetosNoPlano\ObjetosNoPlano\obj\Debug\ObjetosNoPlano.csprojResolveAssemblyReference.cache
+D:\ThiagoMairinkLp2\exercicos\ObjetosNoPlano\ObjetosNoPlano\obj\Debug\ObjetosNoPlano.exe
+D:\ThiagoMairinkLp2\exercicos\ObjetosNoPlano\ObjetosNoPlano\obj\Debug\ObjetosNoPlano.pdb
+D:\LuanMoraesLp2\exercicicos\ObjetosNoPlano\ObjetosNoPlano\bin\Debug\ObjetosNoPlano.exe.config
+D:\LuanMoraesLp2\exercicicos\ObjetosNoPlano\ObjetosNoPlano\obj\Debug\ObjetosNoPlano.exe
+D:\LuanMoraesLp2\exercicicos\ObjetosNoPlano\ObjetosNoPlano\obj\Debug\ObjetosNoPlano.pdb
+D:\LuanMoraesLp2\exercicicos\ObjetosNoPlano\ObjetosNoPlano\bin\Debug\ObjetosNoPlano.exe
+D:\LuanMoraesLp2\exercicicos\ObjetosNoPlano\ObjetosNoPlano\bin\Debug\ObjetosNoPlano.pdb
+D:\LuanMoraesLp2\exercicicos\ObjetosNoPlano\ObjetosNoPlano\obj\Debug\ObjetosNoPlano.csprojResolveAssemblyReference.cache
