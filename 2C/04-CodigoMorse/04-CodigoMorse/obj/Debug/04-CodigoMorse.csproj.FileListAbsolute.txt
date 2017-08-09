@@ -1,0 +1,6 @@
+D:\LuanMoraesLp2\2C\04-CodigoMorse\04-CodigoMorse\bin\Debug\04-CodigoMorse.exe.config
+D:\LuanMoraesLp2\2C\04-CodigoMorse\04-CodigoMorse\bin\Debug\04-CodigoMorse.exe
+D:\LuanMoraesLp2\2C\04-CodigoMorse\04-CodigoMorse\bin\Debug\04-CodigoMorse.pdb
+D:\LuanMoraesLp2\2C\04-CodigoMorse\04-CodigoMorse\obj\Debug\04-CodigoMorse.csprojResolveAssemblyReference.cache
+D:\LuanMoraesLp2\2C\04-CodigoMorse\04-CodigoMorse\obj\Debug\04-CodigoMorse.exe
+D:\LuanMoraesLp2\2C\04-CodigoMorse\04-CodigoMorse\obj\Debug\04-CodigoMorse.pdb
