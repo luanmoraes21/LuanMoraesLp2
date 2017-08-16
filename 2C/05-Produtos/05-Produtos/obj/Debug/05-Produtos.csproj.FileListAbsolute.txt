@@ -1,0 +1,6 @@
+D:\ThiagoMairinkLp2\2C\05-Produtos\05-Produtos\bin\Debug\05-Produtos.exe.config
+D:\ThiagoMairinkLp2\2C\05-Produtos\05-Produtos\bin\Debug\05-Produtos.exe
+D:\ThiagoMairinkLp2\2C\05-Produtos\05-Produtos\bin\Debug\05-Produtos.pdb
+D:\ThiagoMairinkLp2\2C\05-Produtos\05-Produtos\obj\Debug\05-Produtos.csprojResolveAssemblyReference.cache
+D:\ThiagoMairinkLp2\2C\05-Produtos\05-Produtos\obj\Debug\05-Produtos.exe
+D:\ThiagoMairinkLp2\2C\05-Produtos\05-Produtos\obj\Debug\05-Produtos.pdb
