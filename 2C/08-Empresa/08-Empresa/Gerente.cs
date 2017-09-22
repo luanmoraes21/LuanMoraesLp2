@@ -6,11 +6,20 @@ using System.Threading.Tasks;
 
 namespace _08_Empresa
 {
-    class Gerente:Funcionário
+    class Gerente : Funcionário
     {
-          public Gerente (double salario)
+          public void pagamento (double salario)
         {
             this.salario = (salario * 15) / 100;
         }
+           public int registro { get; set; }
+
+        public Gerente(int registro) : base(registro)
+
+          {
+              this.registro = registro;
+          }
+
+       
     }
 }

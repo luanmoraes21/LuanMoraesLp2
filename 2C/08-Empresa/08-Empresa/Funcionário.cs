@@ -9,7 +9,8 @@ namespace _08_Empresa
     class Funcionário
     {
         public string email, nome;
-        public double salario;     
+        public double salario;
+        private int registro;
         public int cpf
  
         {
@@ -20,7 +21,7 @@ namespace _08_Empresa
         public int nroRegistro
         
         {
-            get { return this.nroRegistro; }
+            get { return this.registro; }
 
         }
 
@@ -28,6 +29,11 @@ namespace _08_Empresa
         {
             this.nome = nome;
         }
+
+        public Funcionário (int registro)
+          {
+              this.registro = registro;
+          }
 
 
 
