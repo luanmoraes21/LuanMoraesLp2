@@ -8,5 +8,36 @@ namespace _08_Empresa
 {
     class Funcionário
     {
+        public string email, nome;
+        public double salario;     
+        public int cpf
+ 
+        {
+            get { return this.cpf; }
+
+        }
+
+        public int nroRegistro
+        
+        {
+            get { return this.nroRegistro; }
+
+        }
+
+          public Funcionário (string nome)
+        {
+            this.nome = nome;
+        }
+
+
+
+
+
+
+
+
+
+
+
     }
 }

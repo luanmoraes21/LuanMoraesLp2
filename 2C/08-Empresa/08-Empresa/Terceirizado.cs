@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace _08_Empresa
 {
-    class Terceirizado
+    class Terceirizado:Empregado
     {
+        public string empresamatriz { get; set; }
     }
 }
